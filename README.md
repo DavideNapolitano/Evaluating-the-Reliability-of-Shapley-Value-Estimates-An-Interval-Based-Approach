@@ -1,6 +1,6 @@
-# Submission 14 at "KDD Workshop on Human-Interpretable AI"
+# Evaluating the Reliability of Shapley Value Estimatesç An Interval-Based Approach
 
-This repository contains the code associated to Submission 14 at "KDD Workshop on Human-Interpretable AI".
+This repository contains the code associated to paper "Evaluating the Reliability of Shapley Value Estimates: An Interval-Based Approach" published at "2024 KDD Workshop on Human-Interpretable AI".
 
 ## Available Methods
 
