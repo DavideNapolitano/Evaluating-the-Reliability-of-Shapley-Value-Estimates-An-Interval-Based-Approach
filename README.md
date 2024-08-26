@@ -2,6 +2,8 @@
 
 This repository contains the code associated to paper "Evaluating the Reliability of Shapley Value Estimates: An Interval-Based Approach" published at "2024 KDD Workshop on Human-Interpretable AI".
 
+Extension with Neural approaches: https://ieeexplore.ieee.org/abstract/document/10584436 (code will be released soon!)
+
 ## Available Methods
 
 **Reformulated** Interval Shapley Like Values:
